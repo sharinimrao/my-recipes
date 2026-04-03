@@ -15,7 +15,7 @@ export default function About() {
       <section className="max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-12 py-20 px-6 items-center">
         <div className="aspect-square relative overflow-hidden rounded-sm shadow-sm bg-zinc-100">
           <img
-            src="/me.jpg"
+            src="/me.JPG"
             alt="Sharini"
             className="absolute inset-0 w-full h-full object-cover"
           />
