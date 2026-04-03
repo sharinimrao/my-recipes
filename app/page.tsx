@@ -97,7 +97,7 @@ export default function Home() {
         <div className="flex justify-center gap-10 flex-wrap">
 
           {/* Instagram */}
-          <a href="https://instagram.com/yourhandle" target="_blank" rel="noopener noreferrer"
+          <a href="https://instagram.com/BigBayEats" target="_blank" rel="noopener noreferrer"
             className="flex flex-col items-center gap-3 group">
             <div className="w-20 h-20 rounded-full bg-zinc-100 flex items-center justify-center text-3xl group-hover:bg-zinc-200 transition-colors">
               📸
