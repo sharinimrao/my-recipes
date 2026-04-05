@@ -97,7 +97,7 @@ export const recipes = [
     ],
   },
   {
-    slug: "Mediterranean Inspired Salad",
+    slug: "mediterranean-inspired-salad",
     title: "Mediterranean Inspired Salad",
     category: "Salads",
     tags: ["Salad", "Fresh"],
