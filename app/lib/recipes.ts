@@ -96,4 +96,33 @@ export const recipes = [
       "Top with fresh cilantro and mint.",
     ],
   },
+  {
+    slug: "Mediterranean Inspired Salad",
+    title: "Mediterranean Inspired Salad",
+    category: "Salads",
+    tags: ["Salad", "Fresh"],
+    cookTime: "15 min",
+    description: "The salad that convinces you that fruits belong in salads.",
+    image: "/med_chickpea_salad.JPG",
+    ingredients: [ 
+      "1/2 cucumber chopped",
+      "1 tomato diced ",
+      " handful of arugula (arugula tastes better but if you plan to store it, use kale or chickpeas because arugula tends to get soggy in the fridge)",
+      "1/4 red onion, finely chopped",
+      "1/4 cup fresh cilantro",
+      "1 bell pepper diced",
+      " 2 blood oranges peeled and chopped",
+      "1 pomogranate peeled",
+      "2 tbsp olive oil",
+      "2-3 tbsp balsamic glaze",
+      "1/4 cup crumbled feta",
+      "Salt and pepper to taste",
+    ],
+    instructions: [
+      "Drain and rinse chickpeas/leafy greens.",
+      "Chop all produce and add to a large bowl.",
+      "Toss with olive oil, balsamic glaze, feta, and seasoning.",
+      "Top with fresh cilantro.",
+    ],
+  }
 ];
