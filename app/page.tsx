@@ -104,7 +104,7 @@ export default function Home() {
             </div>
             <div>
               <p className="font-medium text-sm">Instagram</p>
-              <p className="text-zinc-400 text-xs">@bigbayeats</p>
+              <p className="text-zinc-400 text-xs">@rinisrecs</p>
             </div>
           </a>
 
