@@ -124,7 +124,7 @@ export const recipes = [
       "Toss with olive oil, balsamic glaze, feta, and seasoning.",
       "Top with fresh cilantro.",
     ],
-  }
+  },
   {
     slug: "tofu-grain-bowl",
     title: "Tofu Grain Bowl",
