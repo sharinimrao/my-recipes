@@ -143,7 +143,7 @@ export const recipes = [
       " 2 spoons sweet thai chilli sauce (From Trader Joes)",
       " 2 spoons peanut sauce (optional)",
       "2-3 tbsp soy sauce",
-      "1 tsp cumin, turmeric, salt, pepper, cinnamon, and garlic powder",
+      "1 tsp cumin, turmeric, salt, pepper, cinnamon, furikake, and garlic powder",
       "1 serving of hearts of palm or 1 cup of rice",
     ],
     instructions: [
@@ -151,7 +151,7 @@ export const recipes = [
       "Pour oil in a hot pan and add tofu to lightly fry it until it develops a light brown outer skin",
       "Add ginger/garlic, all the sauces, chilli crunch oil, and seasoning to the tofu",
       "In the same pan separate tofu to one side and add washed broccoli to the other. Pour a little bit of water and cover the broccoli side with a lid or let it cook.",
-      "Assemble tofu and broccoli with rice/hearts of palm and added half a cup of edamame."
+      "Assemble tofu and broccoli with rice/hearts of palm and added half a cup of edamame. Top with furikake and pair with seaweed!"
     ],
   }
 ];
