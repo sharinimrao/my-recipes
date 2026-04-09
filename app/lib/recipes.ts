@@ -158,7 +158,7 @@ export const recipes = [
     slug: "chocolate-chip-banana-bread",
     title: "Chocolate Chip Banana Bread",
     category: "Baking",
-    tags: ["High-Protein", "Low-Calorie"],
+    tags: ["Baking", "Sweet"],
     cookTime: "90 minutes",
     description: "The best banana bread to ever exist.",
     image: "/bananabread.jpg",
