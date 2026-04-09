@@ -154,4 +154,32 @@ export const recipes = [
       "Assemble tofu and broccoli with rice/hearts of palm and added half a cup of edamame. Top with furikake and pair with seaweed!"
     ],
   }
+    {
+    slug: "chocolate-chip-banana-bread",
+    title: "Chocolate Chip Banana Bread",
+    category: "Baking",
+    tags: ["High-Protein", "Low-Calorie"],
+    cookTime: "90 minutes",
+    description: "The best banana bread to ever exist.",
+    image: "/bananabread.jpg",
+    ingredients: [ 
+      " 3 very ripe bananas",
+      "1/2 cup unsalted butter melted",
+      " 3/4 cup granulated cane sugar",
+      "1/2 cup greek yogurt",
+      "1 1/2 cup all-purpose flour",
+      "1 tsp baking soda",
+      " 1/2 tsp salt",
+      " 1 tsp vanilla extract",
+      "1/2 cup semi-sweet chocolate chips",
+    ],
+    instructions: [
+      "First mash banana into a mixing bowl and add melted butter, sugar, and yogurt, and vanilla extract to it.",
+      "Pre-Heat over to 350 degrees",
+      "Into another bowl combine dry ingredients including all-purpose flour, baking soda, and salt.",
+      "Fold in 1/2 the dry ingredients into the mashed banana mixture, mix, and then fold in the other half",
+      "Measure with your heart and add chocolate chips to the batter and pouring into a baking tin or loaf tin.",
+      "Bake the banana bread for 50-55 minutes or until the top is golden brown and a fork comes out clean when inserted."
+    ],
+  }
 ];
