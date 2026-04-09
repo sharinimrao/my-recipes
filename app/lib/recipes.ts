@@ -153,7 +153,7 @@ export const recipes = [
       "In the same pan separate tofu to one side and add washed broccoli to the other. Pour a little bit of water and cover the broccoli side with a lid or let it cook.",
       "Assemble tofu and broccoli with rice/hearts of palm and added half a cup of edamame. Top with furikake and pair with seaweed!"
     ],
-  }
+  },
     {
     slug: "chocolate-chip-banana-bread",
     title: "Chocolate Chip Banana Bread",
