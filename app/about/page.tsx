@@ -37,7 +37,7 @@ export default function About() {
             My Food Philosophy
           </h2>
           <p className="text-zinc-600 leading-relaxed text-xl">
-            Best place to eat in Berkeley is Rm 205 2610 Hillegass Ave :p
+            Best place to eat in Berkeley is my house :p
           </p>
         </div>
       </section>
